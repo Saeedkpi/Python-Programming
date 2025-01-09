@@ -7,3 +7,5 @@ student_information = {
 }
 
 print(student_information["std_id2"])
+print(student_information["std_id4"]['Name'])
+print(student_information["std_id4"]["District"])
